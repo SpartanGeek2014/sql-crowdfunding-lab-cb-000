@@ -30,17 +30,7 @@ INSERT INTO users (id, name, age) VALUES
 (17, "Henry Jones", 36),
 (18, "Jimmy Zarzarvin", 33),
 (19, "Mary Nantucket", 27),
-(20, "Yuki Jamari", 23),
-(21, "Unfufu Marakami", 31),
-(22, "Irene Barker", 41),
-(23, "Bill Jamison", 20),
-(24, "Chelsea Boxer", 48),
-(25, "Harvey Dent", 56),
-(26, "Bruce Wayne", 45),
-(27, "Peter Parker", 22),
-(28, "Tony Stark", 38),
-(29, "Steve Rogers", 40),
-(30, "Natasha Romanoff", 31);
+(20, "Yuki Jamari", 23);
 
 INSERT INTO pledges (id, amount, user_id, project_id) VALUES
 (1, 10.00, 1, 2),
