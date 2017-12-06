@@ -1,0 +1,11 @@
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
+(1, "Weaver House", "building", 250000, "02/15/2009", "02/01/2013")
+(2, "Hatch", "movie", 2000, "01/15/2012", "03/23/2013")
+(3, "Jones House", "building", 125000, "12/102011", "02/25/2014")
+(4, "Zero Dark Thirty", "movie", 500000, "01/30/2008", "02/01/2011")
+(5, "Zumba", "gym", 50000, "03/20/2014", "01/15/2015")
+(6, "Harker Towers", "building", 2500000, "06/01/2009", "03/25/2014")
+(7, "Happy Gilmore", "movie", 25000, "02/15/1996", "04/20/1996")
+(8, "Conway Bridge", "infrastructure", 1250000, "01/31/2008", "06/15/2011")
+(9, "Moby Davis", "restaurant", 50000, "02/15/2006", "10/31/2009")
+(10, "The Avengers", "movie", 1000000, "01/15/2009", "09/20/2009")
